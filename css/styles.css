@@ -1,0 +1,22 @@
+a {
+    color: pink;
+    font-size: 100px;
+}
+
+div {
+    color: rgba(215, 7, 208, 0.5);
+}
+
+#link {
+    color: green;
+}
+
+.test {
+    color: rgb(188, 86, 8);
+}
+
+.message {
+    background-color: brown;
+    color: white;
+    border: 1px dashed black;
+}
